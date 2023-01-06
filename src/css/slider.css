@@ -1,0 +1,57 @@
+.slider-left{
+    position: absolute;
+    width: 280px;
+    height: 644px;
+    left: 0px;
+    top: 0px;
+    filter: drop-shadow(2px 0px 4px rgba(104, 104, 104, 0.6));
+}
+.logo img{
+    width: 100%;
+    padding: 20px;
+    margin-top: 15px;
+}
+.company_name{
+
+    width: 170px;
+    height: 37px;
+    left: 34px;
+    top: 104px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    padding-left: 20px;
+    color: #FFFFFF;
+  }
+  .Navbar ul{
+    list-style-type: none;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 12px;
+    padding-right: 2rem;
+    font-family: system-ui;
+  }
+  .Navbar li{
+    margin-top: 10px;
+    border-bottom: 1px solid #fff;
+  }
+  .Navbar li a{
+    color: #fff;
+  }
+  .Navbar li a:hover{
+    color: #47c8e5;
+  }
+  .navigation{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #0C3F62;
+  }

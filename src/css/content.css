@@ -1,0 +1,132 @@
+.dropdown--content{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+   color: rgb(41, 125, 158);
+}
+.dropdown--menu{
+    border: none;
+    background-color: gray;
+}
+
+.flex{
+    display: flex;
+    padding-right: 5px;
+    justify-content: flex-end;
+}
+.name{
+    font-size: 20px;
+    font-weight: 800;
+
+    font-family: Montserrat;
+}
+.unlockcard{
+    height :170px;
+    background-color: #0C3F62;
+    padding-left: 10px;
+    color: white;
+    border-radius: 7px;
+}
+.lockcard{
+    height :170px;
+    background-color: lightgray;
+    padding-left: 10px;
+    color: white;
+    border-radius: 7px;
+}
+.card--number {
+    display: flex;
+    align-items: center; color: white;
+}
+.cvv{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.cvv-copy{
+    display: flex;
+    
+    color: white;
+}
+.white{
+    color: white;
+}
+.header--name{
+    color: #0FA1DB;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+}
+.header--details{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+text-align: right;
+letter-spacing: -0.03em;
+}
+
+.feature{
+    display:block;
+     width : 370px;
+     height: 170px;
+     padding : '0 30px' 
+}
+.card-modifier{
+    background-color : #C2E2EE;
+     width :200px;
+     height :170px;
+     margin-top: 50px;
+     margin-left: 30px;
+     border-radius: 5px;
+}
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 8px;
+}
+.item{
+  display:block;
+  padding-left: 23px;
+  padding-top: 22px;
+}
+.item-second{
+    display:block;
+    padding-left: 28px;
+    padding-top: 10px;
+  }
+.item-design{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    background-color:#16b6f5;
+    margin-left: 13px ; 
+}
+.item-logo{
+padding-top : 5px;  
+padding-left: 7px;
+}
+.item-content{
+    padding-left: 10px;
+}
+
+.status-button
+{    background-color:rgba(15, 161, 219, 0.19);
+      margin-bottom : 5px;      
+        border: none;
+        cursor: pointer;
+    }
+    .nothing-btn
+{   background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    }
+
